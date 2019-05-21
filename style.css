@@ -1,0 +1,11 @@
+html{
+	font-family: monospace;
+	font-weight: bold;
+	line-height: 2px;
+	margin-left: 30px;
+	display: inline;
+}
+
+canvas{
+	border-radius: 5px;
+}
